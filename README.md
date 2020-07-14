@@ -1,8 +1,8 @@
 # DemoGames
 
-######This repository contains primitive games made using java and are playable using console
+###### This repository contains primitive games made using java and are playable using console
 
-#####GameList
+##### GameList
 
 - MineSweeper
 
